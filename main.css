@@ -34,6 +34,7 @@ p {
 }
 
 .album-art {
+	border: red 2px solid;
 
 }
 
@@ -54,6 +55,7 @@ p {
 }
 
 #about-photo {
+	border: red 2px solid;
 
 }
 
@@ -62,9 +64,16 @@ p {
 }
 
 #section-about, #section-discography, #section-equipment {
-
+	border: red 2px solid;
+	margin-bottom: 40px;
 }
 
 #text-intro {
-	
+	background-color:dimgray;
+	color:red;
+	border: red 2px solid;
+	text-align: left;
+	width: auto;
+	padding: 12px;
+	font-size: 16px;
 }
