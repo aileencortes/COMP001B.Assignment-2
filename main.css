@@ -65,7 +65,8 @@ p {
 }
 
 #copyright {
-
+	color: red;
+border-bottom: white 3px solid;
 }
 
 #section-about, #section-discography, #section-equipment {
