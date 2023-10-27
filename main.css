@@ -39,7 +39,7 @@ p {
 	padding: 20px;
 	margin-left: 20px;
 	margin-right: 30px;
-	width: 120px;
+	width: 150px;
 
 }
 
@@ -48,7 +48,13 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	
+	float: left;
+	border: red 2px solid;
+	padding: 20px;
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-bottom: 12px;
+	width: 270px;
 }
 
 .record-label {
@@ -58,7 +64,7 @@ p {
 }
 
 .track-list {
-
+	list-style-type:square;
 }
 
 #about-photo {
@@ -68,6 +74,7 @@ p {
 	margin-left: 20px;
 	margin-right: 10px;
 	margin-bottom: 12px;
+	width: 500px;
 
 }
 
@@ -83,7 +90,7 @@ p {
 }
 
 #text-intro {
-	background-color:dimgray;
+	background-color:rgba(105, 105, 105, 0.748);
 	color:red;
 	border: red 2px solid;
 	text-align: left;
